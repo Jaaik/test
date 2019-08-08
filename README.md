@@ -1,8 +1,9 @@
 # test
+<H2> Enhance your shopping limit </H2>
    
-You can enhance your shopping limit on your Debit Card in a few simple steps using ADFC NetBanking.
+You can enhance your shopping limit on your debit card in a few simple steps using our ADFC NetBanking.
 <ol>
-    <li>  Login to the netbanking. 
+   <li>  Login to the <b>ADFC</b> netbanking. 
     <li>  Go to <b>Cards > Debit Cards</b>.
    <li>  From the <b>Request</b> tab, click <b> Modify International Limit</b>. 
     <li>  Select active Card Number, and update the new card limit.<br>
